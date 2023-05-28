@@ -10,3 +10,4 @@ int main() {
 	cout << "Hello, " << name << endl; //Greeting the user - изменение для конфликта
 	return 0;
 }
+// one more
