@@ -4,9 +4,9 @@
 using namespace std;
 
 int main() {
-	cout << "What is your name?\n";
-	string name;
-	cin >> name;
-	cout << "Hello, " << name << endl;
+	cout << "What is your name?\n"; //Asking for a user's name
+	string name; //var with a username
+	cin >> name; //binding a name to the var
+	cout << "Hello, " << name << endl; //Greeting the user
 	return 0;
 }
